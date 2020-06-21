@@ -23,7 +23,7 @@ package Bblog.util;
 //	driver.manage().timeouts().pageLoadTimeout(45, TimeUnit.SECONDS);
 	}else if(browserName.equalsIgnoreCase("chrome")){
 	System.out.println("in chrome");
-	System.setProperty("webdriver.chrome.driver", "C:\\Users\\Saniket\\git\\MidtransAutomationFramework\\saniket\\lib\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver", "C:\\Users\\Saniket\\git\\BBlog\\saniketBblog\\lib\\chromedriver.exe");
 	driver=new ChromeDriver();
 	driver.manage().window().maximize();
 	driver.manage().deleteAllCookies();
