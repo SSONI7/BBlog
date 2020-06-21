@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/aopalliance-repackaged-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/c3p0-oracle-thin-extras-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/commons-net-3.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/commons-net-examples-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/extentreports-java-3.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/fluent-hc-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/hk2-api-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/hk2-locator-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/hk2-utils-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javaee-api-5.0-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javassist-3.22.0-CR2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javax.inject-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javax.json.bind-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javax.json-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javax.json-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/javax.ws.rs-api-2.1-m09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jersey-media-json-binding.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jersey-media-sse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/json-20160810.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/json-path-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/poi-examples-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/poi-excelant-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/poi-scratchpad-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/xls_Reader.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/yasson-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/MidtransAutomationFramework/saniket/repository/zip4j-1.3.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
